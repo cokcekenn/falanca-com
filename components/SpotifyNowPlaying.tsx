@@ -1,0 +1,1 @@
+// Spotify bileşeni placeholder
